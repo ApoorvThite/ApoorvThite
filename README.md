@@ -76,3 +76,14 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 [<img src = "https://github.com/ssingh64-byte/kai-ai-backend/blob/main/673bacc07b4f097bfc68c3f5_Reality%20AI%20Lab.png" height = 300 width = 500/>](https://github.com/ssingh64-byte/kai-ai-backend)| [<img src="https://github.com/ApoorvThite/geminiquizify/blob/main/Quiz-Maker.png" height = 300 width = 500/>](https://github.com/ApoorvThite/geminiquizify) |
 
+<hr style="border:0.01px solid blue">
+
+<h2 align = "center"> 🖥 My Coursework and Research Projects</h2> 
+
+| 🚀 [Early Stage Detection of Parkinson's Disease using Multimodal data](https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease))| 👨🏻‍💻 [Titanic Data Classification and White-Box Moedelling](https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite)| 
+| :-:| :-:| 
+| [<img src = "https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease/blob/main/Basal-ganglia-cropped.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease)| [<img src = "https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite/blob/main/dataset-cover.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite)
+
+| 🤍 [Spotify Music Analysis](https://github.com/ApoorvThite/Spotify_Music-Analysis)| [☎️ __Bank Marketing Campaign Analysis__](https://github.com/ApoorvThite/Apoorv_DataGlacier)|
+| :-:| :-:| 
+| [<img src = "https://github.com/ApoorvThite/Spotify_Music-Analysis/blob/main/photo-1614680376593-902f74cf0d41.jpeg" width = 500 height = 300/>](https://github.com/ApoorvThite/Spotify_Music-Analysis)| [<img src = "https://github.com/ApoorvThite/Apoorv_DataGlacier/blob/main/225806989-08c95811-0c95-45e2-abac-fe6aedd1a4a4.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Apoorv_DataGlacier)|
