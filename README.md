@@ -87,3 +87,12 @@ The following links include detailed descriptions within each GitHub repository:
 | 🤍 [Spotify Music Analysis](https://github.com/ApoorvThite/Spotify_Music-Analysis)| [☎️ __Bank Marketing Campaign Analysis__](https://github.com/ApoorvThite/Apoorv_DataGlacier)|
 | :-:| :-:| 
 | [<img src = "https://github.com/ApoorvThite/Spotify_Music-Analysis/blob/main/photo-1614680376593-902f74cf0d41.jpeg" width = 500 height = 300/>](https://github.com/ApoorvThite/Spotify_Music-Analysis)| [<img src = "https://github.com/ApoorvThite/Apoorv_DataGlacier/blob/main/225806989-08c95811-0c95-45e2-abac-fe6aedd1a4a4.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Apoorv_DataGlacier)|
+
+<hr style="border:0.01px solid blue">
+
+<h2 align = "center"> 🖥 My Technical Blogs </h2> 
+
+&emsp;&emsp; 📃 [__Understanding Machine Learning with a Simple House Price Prediction Example__](https://medium.com/@apoorvthite21/understanding-machine-learning-with-a-simple-house-price-prediction-example-936c314e56f6)
+
+&emsp;&emsp; 📃 [__Fluctuations in the Stock Market and the Growth of AI: Exploring the Correlation__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
+
