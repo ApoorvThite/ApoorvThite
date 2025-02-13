@@ -12,7 +12,7 @@ I have hands-on experience in building **Machine Learning models**, creating **L
 
 I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
-I am interested in **AI applications in healthcare**, **anomaly detection**, and **stock price prediction**
+I am interested in **AI Applications in Healthcare and Finance**, **Big Data Analytics**, and **Machine Learning and Model Building**
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
