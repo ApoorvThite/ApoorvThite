@@ -9,6 +9,7 @@ I love exploring how AI can solve real-world problems and create new possibiliti
 🔭 I am a senior, pursuing a Bachelor's Degree in Applied Data Science with a Minor in Economics from The Pennsylvania State University
 
 I have hands-on experience in building **Machine Learning models**, creating **LLM applications**, and using **AI for business and finance**  
+
 I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
 I am interested in **AI applications in healthcare**, **anomaly detection**, and **stock price prediction**
