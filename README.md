@@ -69,3 +69,10 @@ The following links include detailed descriptions within each GitHub repository:
 | [<img src = "https://github.com/ApoorvThite/Heart-Disease-Classification-ML/blob/main/images.jpeg" width = 500 height = 300/>](https://github.com/ApoorvThite/Heart-Disease-Classification-ML)| [<img src = "https://github.com/ApoorvThite/Computer-Vision-NDL1/blob/main/img-1.png" width = 500 height = 300/>](https://github.com/ApoorvThite/Computer-Vision-NDL1)|
 
 <hr style="border:0.01px solid blue">
+
+<h2 align = "center"> 🖥 Internship Hands-On Experience </h2> 
+
+| ⛁ [Kai-ai Syllabus and Worksheet Generator](https://github.com/ssingh64-byte/kai-ai-backend) | [Gemini Quizify - An AI-based Quiz Generator](https://github.com/ApoorvThite/geminiquizify) | 
+| :-:| :-:| 
+[<img src = "https://github.com/ssingh64-byte/kai-ai-backend/blob/main/673bacc07b4f097bfc68c3f5_Reality%20AI%20Lab.png" height = 300 width = 500/>](https://github.com/ssingh64-byte/kai-ai-backend)| [<img src="https://github.com/ApoorvThite/geminiquizify/blob/main/Quiz-Maker.png" height = 300 width = 500/>](https://github.com/ApoorvThite/geminiquizify) |
+
