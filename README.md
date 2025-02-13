@@ -56,3 +56,15 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
+
+The following links include detailed descriptions within each GitHub repository:
+
+| 🚀 [US Elections and Stock Market Trends in the 21st century](https://github.com/ApoorvThite/Election-Stocks-Trends))| 👨🏻‍💻 [NVDA Stock Prediction Using LSTM](https://github.com/ApoorvThite/Stock_Prediction)| 
+| :-:| :-:| 
+| [<img src = "https://github.com/ApoorvThite/Election-Stocks-Trends/blob/main/2020-07-07-Stock-Market-On-Election-Years.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Election-Stocks-Trends)| [<img src = "https://github.com/ApoorvThite/Stock_Prediction/blob/main/1_hhq3ybwbyA3p0dWuLFtLMQ.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Stock_Prediction)
+
+| 🤍 [Heart Disease Classification using Machine Learning](https://github.com/ApoorvThite/Heart-Disease-Classification-ML)| [☎️ __CIFAR10 Image Classification using Neural Networks__](https://github.com/ApoorvThite/Computer-Vision-NDL1)|
+| :-:| :-:| 
+| [<img src = "https://github.com/ApoorvThite/Heart-Disease-Classification-ML/blob/main/images.jpeg" width = 500 height = 300/>](https://github.com/ApoorvThite/Heart-Disease-Classification-ML)| [<img src = "https://github.com/ApoorvThite/Computer-Vision-NDL1/blob/main/img-1.png" width = 500 height = 300/>](https://github.com/ApoorvThite/Computer-Vision-NDL1)|
+
+<hr style="border:0.01px solid blue">
