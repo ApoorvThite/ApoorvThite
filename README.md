@@ -80,7 +80,7 @@ The following links include detailed descriptions within each GitHub repository:
 
 <h2 align = "center"> 🖥 My Coursework and Research Projects</h2> 
 
-| 🚀 [Early Stage Detection of Parkinson's Disease using Multimodal data](https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease))| 👨🏻‍💻 [Titanic Data Classification and White-Box Moedelling](https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite)| 
+| 🚀 [Early Stage Detection of Parkinson's Disease using Multimodal data](https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease))| 👨🏻‍💻 [Titanic Data Classification and White-Box Modelling](https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite)| 
 | :-:| :-:| 
 | [<img src = "https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease/blob/main/Basal-ganglia-cropped.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease)| [<img src = "https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite/blob/main/dataset-cover.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite)
 
