@@ -63,7 +63,7 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 | [<img src = "https://github.com/ApoorvThite/Election-Stocks-Trends/blob/main/2020-07-07-Stock-Market-On-Election-Years.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Election-Stocks-Trends)| [<img src = "https://github.com/ApoorvThite/Stock_Prediction/blob/main/1_hhq3ybwbyA3p0dWuLFtLMQ.jpg" width = 500 height = 300/>](https://github.com/ApoorvThite/Stock_Prediction)
 
-| 🤍 [Heart Disease Classification using Machine Learning](https://github.com/ApoorvThite/Heart-Disease-Classification-ML)| [☎️ __CIFAR10 Image Classification using Neural Networks__](https://github.com/ApoorvThite/Computer-Vision-NDL1)|
+| 🤍 [Heart Disease Classification using Predictive Analytics and ML Algorithms](https://github.com/ApoorvThite/Heart-Disease-Classification-ML)| [☎️ __CIFAR10 Image Classification using Neural Networks__](https://github.com/ApoorvThite/Computer-Vision-NDL1)|
 | :-:| :-:| 
 | [<img src = "https://github.com/ApoorvThite/Heart-Disease-Classification-ML/blob/main/images.jpeg" width = 500 height = 300/>](https://github.com/ApoorvThite/Heart-Disease-Classification-ML)| [<img src = "https://github.com/ApoorvThite/Computer-Vision-NDL1/blob/main/img-1.png" width = 500 height = 300/>](https://github.com/ApoorvThite/Computer-Vision-NDL1)|
 
