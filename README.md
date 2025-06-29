@@ -1,18 +1,11 @@
+<h1 align="center">
+  <img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />
+  Hi, I'm Apoorv Thite 👋
+</h1>
 
-<h1 align = "center"><img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Apoorv Thite 👋</h1>
-
-I'm passionate about **Machine Learning (ML)**, **Data Science**, **Large Language Models (LLMs)**, and **Generative AI**. 
-
-I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn, build, and share cool projects!
-
-<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
-🔭 I am a senior, pursuing a Bachelor's Degree in Applied Data Science with a Minor in Economics from The Pennsylvania State University
-
-I have hands-on experience in building **Machine Learning models**, creating **LLM applications**, and using **AI for business and finance**  
-
-I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
-
-I am interested in **AI Applications in Healthcare and Finance**, **Big Data Analytics**, and **Model Building for Advanced Machine Learning**
+<p align="center">
+  🚀 Applied Data Science Student | 💡 Machine Learning & Generative AI Enthusiast | 📈 Future Tech Leader
+</p>
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
@@ -21,37 +14,7 @@ I am interested in **AI Applications in Healthcare and Finance**, **Big Data Ana
 * *Data Analytics and Visualisation Virtual Experience by [__Accenture__](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)*
 * *AWS Knowledge - Cloud Essentials by [__Amazon Web Services (AWS)__](https://aws.amazon.com/getting-started/cloud-essentials/)*
 
-🔭 I've used a variety of Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
-* *Linear Regression*
-* *Logistic Regression*
-* *Support Vector Machines (SVM)*
-* *Decision Trees (DT)*
-* *Random Forests (RF)*
-* *K-Nearest Neighbors (KNN)*
-* *Deep Neural Networks*
-* *Convolutional Neural Networks (CNN)*
-* *Recurrent Neural Networks (RNN)*
-* *Naive Bayes (NB)*
-* *Gradient Boosted Decision Trees (GBDT)*
-* *XGBoost*
-* *Long Short-Term Memory (LSTM)*
-
-🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
-
-* *Langchain*
-* *LangGraph*
-* *Retrieval Augmented Generation (RAG)*
-* *Llama Index*
-* *OpenAI API*
-* *Llama 2 (LLM)*
-* *GPT - 3.5 (LLM)*
-* *GPT - 4 (LLM)*
-
-<h2>📬 Let's Connect</h2>
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/apoorvthite21)
-- 📫 Email: apoorvthite21 [at] gmail [dot] com
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
