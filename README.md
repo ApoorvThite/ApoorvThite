@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />
   The Apoorv Chronicles 🎬 – A Developer’s Journey in Seasons
 </h1>
 
