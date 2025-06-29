@@ -48,6 +48,11 @@ I am interested in **AI Applications in Healthcare and Finance**, **Big Data Ana
 * *GPT - 3.5 (LLM)*
 * *GPT - 4 (LLM)*
 
+<h2>📬 Let's Connect</h2>
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/apoorvthite21)
+- 📫 Email: apoorvthite21 [at] gmail [dot] com
+
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
