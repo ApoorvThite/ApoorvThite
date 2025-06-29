@@ -45,7 +45,6 @@ I am interested in **AI Applications in Healthcare and Finance**, **Big Data Ana
 * *Llama Index*
 * *OpenAI API*
 * *Llama 2 (LLM)*
-* *GPT - 3 (LLM)*
 * *GPT - 3.5 (LLM)*
 * *GPT - 4 (LLM)*
 
