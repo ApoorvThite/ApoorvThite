@@ -1,11 +1,32 @@
 <h1 align="center">
   <img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />
-  Hi, I'm Apoorv Thite 👋
+  The Apoorv Chronicles 🎬 – A Developer’s Journey in Seasons
 </h1>
 
 <p align="center">
-  🚀 Applied Data Science Student | 💡 Machine Learning & Generative AI Enthusiast | 📈 Future Tech Leader
+  <em>“Code is my canvas. AI is the paint. Welcome to my world of meaningful builds and mindful learning.”</em>
 </p>
+
+## 🎞️ Episode I – The Opening Scene: Who Am I?
+
+Hi! I’m **Apoorv Thite**, a senior at **Penn State University** majoring in **Applied Data Science**, minoring in **Economics**, and passionately blending tech with purpose.
+
+From building LLM-powered edtech tools to researching early-stage Parkinson’s detection using AI — I love turning real-world challenges into data-driven solutions. Every project I create is a scene in a bigger storyline: **the pursuit of intelligent, accessible, and impactful technology**.
+
+---
+
+
+## 🎞️ Episode II – Plot Points: My Goals & Aspirations
+
+🧠 **My long-term goal?** To combine technical ML mastery with strategic thinking and ultimately pursue an MBA that lets me lead innovation at the intersection of AI, ethics, and human need.
+
+🎯 **Short-term?**  
+- Design intelligent agents that solve niche but real problems (finance, healthcare, productivity).  
+- Work in high-impact **AI/ML/Data Science** teams.  
+- Contribute to open source.  
+- Build a portfolio that speaks louder than my resume.
+
+---
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
