@@ -36,7 +36,7 @@ From building LLM-powered edtech tools to researching early-stage Parkinson’s 
 
 
 
-<h2>🪚🔧 My Skills 😀😀:</h2>
+## 🎞️ Episode III – Behind the Scenes: My Toolkit & Tech Stack
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 
