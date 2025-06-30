@@ -17,7 +17,7 @@ From building LLM-powered edtech tools to researching early-stage Parkinson’s 
 
 ## 🎞️ Episode II – Plot Points: My Goals & Aspirations
 
-🧠 **My long-term goal?** To combine technical ML mastery with strategic thinking and ultimately pursue an MBA that lets me lead innovation at the intersection of AI, ethics, and human need.
+🧠 **My long-term goal?** To combine technical ML mastery with strategic thinking and ultimately pursue a career as a Data Scientist that lets me lead innovation at the intersection of AI, ethics, and human need.
 
 🎯 **Short-term?**  
 - Design intelligent agents that solve niche but real problems (finance, healthcare, productivity).  
