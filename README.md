@@ -44,20 +44,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 
 
-## 📺 Season I – ML in Finance: *"Predicting the Unpredictable"*
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Now%20Streaming-FF3131?style=for-the-badge&logo=appveyor&logoColor=white">
-</h3>
-
-| 🎞️ Episode | Project | Tagline |
-|------------|---------|---------|
-| S1E1 | [**NVDA Stock Forecasting (LSTM)**](https://github.com/ApoorvThite/Stock_Prediction) | Deep learning meets market timing |
-| S1E2 | [**Elections & Stock Trends (2000–2024)**](https://github.com/ApoorvThite/Election-Stocks-Trends) | Can political shifts predict economic ripples? |
-
----
-
-
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
 The following links include detailed descriptions within each GitHub repository:
