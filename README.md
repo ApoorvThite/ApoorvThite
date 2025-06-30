@@ -84,3 +84,14 @@ The following links include detailed descriptions within each GitHub repository:
 
 &emsp;&emsp; 📃 [__Fluctuations in the Stock Market and the Growth of AI: Exploring the Correlation__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
 
+## 💌 Credits & Contact
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Let’s%20Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
+</h3>
+
+- 📬 Email: **apoorvthite21 [at] gmail [dot] com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/apoorvthite)
+- 🧠 [Medium Blog](https://medium.com/@apoorvthite21)
+- 🌐 Personal Portfolio (coming soon...)
+
