@@ -8,7 +8,7 @@
 
 ## 🎞️ Episode I – The Opening Scene: Who Am I?
 
-Hi! I’m **Apoorv Thite**, a senior at **Penn State University** majoring in **Applied Data Science**, minoring in **Economics**, and passionately blending tech with purpose.
+Hey there! I’m **Apoorv Thite**, a senior at **Penn State University** majoring in **Applied Data Science**, minoring in **Economics**, and passionately blending tech with purpose.
 
 From building LLM-powered edtech tools to researching early-stage Parkinson’s detection using AI — I love turning real-world challenges into data-driven solutions. Every project I create is a scene in a bigger storyline: **the pursuit of intelligent, accessible, and impactful technology**.
 
