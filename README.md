@@ -1,5 +1,5 @@
 <h1 align="center">
-  The Apoorv Chronicles 🎬 – A Data Driven Journey
+  Patterns, Purpose & Progress: My Data Journey 🚀
 </h1>
 
 <p align="center">
