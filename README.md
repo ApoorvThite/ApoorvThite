@@ -1,5 +1,5 @@
 <h1 align="center">
-  The Apoorv Chronicles 🎬 – A Developer’s Journey in Seasons
+  The Apoorv Chronicles 🎬 – A Data Driven Journey
 </h1>
 
 <p align="center">
