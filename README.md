@@ -96,5 +96,5 @@ The following links include detailed descriptions within each GitHub repository:
 - 🌐 Personal Portfolio (coming soon...)
 
 <p align="center">
-  <em>“Thanks for watching The Apoorv Chronicles. New episodes drop weekly.”</em> 🌟
+  <em>“Thanks for being here. New data-driven solutions drop weekly.”</em> 🌟
 </p>
