@@ -95,3 +95,6 @@ The following links include detailed descriptions within each GitHub repository:
 - 🧠 [Medium Blog](https://medium.com/@apoorvthite21)
 - 🌐 Personal Portfolio (coming soon...)
 
+<p align="center">
+  <em>“Thanks for watching The Apoorv Chronicles. New episodes drop weekly.”</em> 🌟
+</p>
