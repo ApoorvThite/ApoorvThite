@@ -96,7 +96,7 @@ The following links include detailed descriptions within each GitHub repository:
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvthite&theme=radical" height="200"/>
-  <img src="https://komarev.com/ghpvc/?username=apoorvthite&style=flat-square&color=brightgreen" alt="Profile Views" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=apoorvthite&style=flat-square&color=brightgreen" alt="" height="30"/>
 
 </div>
 
