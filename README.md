@@ -83,6 +83,14 @@ The following links include detailed descriptions within each GitHub repository:
 
 &emsp;&emsp; 📃 [__Fluctuations in the Stock Market and the Growth of AI: Exploring the Correlation__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
 
+
+## 📊 GitHub Stats
+
+![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvthite&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvthite&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apoorvthite&theme=radical)
+
+
 ## 💌 Credits & Contact
 
 <h3 align="center">
