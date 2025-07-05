@@ -106,7 +106,7 @@ The following links include detailed descriptions within each GitHub repository:
   <img src="https://img.shields.io/badge/Let’s%20Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
 </h3>
 
-- 📬 Email: **apoorvthite21 [at] gmail [dot] com**
+- 📬 Email: **aat5564@psu.edu**
 - 💼 [LinkedIn](https://www.linkedin.com/in/apoorvthite)
 - 🧠 [Medium Blog](https://medium.com/@apoorvthite21)
 - 🌐 Personal Portfolio (coming soon...)
