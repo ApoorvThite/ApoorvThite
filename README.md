@@ -86,11 +86,19 @@ The following links include detailed descriptions within each GitHub repository:
 
 ## 📊 GitHub Stats
 
-![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvthite&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvthite&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorvthite&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvthite&layout=compact&theme=radical" height="200"/>
+  
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apoorvthite&theme=radical)
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvthite&theme=radical" height="200"/>
+  <img src="https://komarev.com/ghpvc/?username=apoorvthite&style=flat-square&color=brightgreen" alt="Profile Views" height="30"/>
+
+</div>
 
 
 ## 💌 Credits & Contact
