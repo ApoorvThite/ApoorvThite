@@ -56,6 +56,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 |------------|---------|---------|
 | S1E1 | [**NVDA Stock Forecasting (LSTM)**](https://github.com/ApoorvThite/Stock_Prediction) | Deep learning meets market timing |
 | S1E2 | [**Elections & Stock Trends (2000–2024)**](https://github.com/ApoorvThite/Election-Stocks-Trends) | Can political shifts predict economic ripples? |
+| S1E3 | [**IBM Customer Churn Prediction**](https://github.com/ApoorvThite/ibm-churn-prediction) | Anticipating exits before they happen |
 
 ---
 
@@ -69,6 +70,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 |------------|---------|---------|
 | S2E1 | [**Gemini Quizify**](https://github.com/ApoorvThite/geminiquizify) | AI-generated quizzes for modern classrooms |
 | S2E2 | [**Kai-AI Worksheet & Syllabus Generator**](https://github.com/ssingh64-byte/kai-ai-backend) | LangGraph + VertexAI for dynamic educational content |
+| S2E3 | [**StartupX – Agentic Startup Evaluator**](https://github.com/ApoorvThite/startupx) | LLM-powered idea validation, deck generation, and market sizing |
+| S2E4 | [**SmartSkillMatch**](https://github.com/ApoorvThite/smartskillmatch) | AI-based matching for people, projects & productivity |
 
 ---
 
@@ -85,7 +88,21 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ---
 
-## ⏳ Season IV – In the Writers' Room: *Projects in Progress*
+## 📺 Season IV – SocioTech & Urban Analytics: *"AI for a Better World"*
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Impact%20Driven-2ECC71?style=for-the-badge&logo=appveyor&logoColor=white">
+</h3>
+
+| 🎞️ Episode | Project | Tagline |
+|------------|---------|---------|
+| S4E1 | [**EcoSplit**](https://github.com/ApoorvThite/ecosplit) | Sustainability meets ML-powered bill splitting |
+| S4E2 | [**UrbanIQ – Satellite & Population Insight Platform**](https://github.com/ApoorvThite/urbanIQ) | Merging geospatial data & population trends for smarter cities |
+| S4E3 | [**Spotify Music Analysis**](https://github.com/ApoorvThite/Spotify_Music-Analysis) | Decoding rhythms, genres, and trends through ML |
+
+---
+
+## ⏳ Season V – In the Writers' Room: *Projects in Progress*
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Coming%20Soon-5356FF?style=for-the-badge&logo=appveyor&logoColor=white">
@@ -93,9 +110,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 | Episode | Project | Description |
 |---------|---------|-------------|
-| S4E1 | **AI-Powered Portfolio Optimization Tool** | Bayesian + RL models for smarter investing |
-| S4E2 | **Consumer Protection Advisor (LLM)** | GPT-backed clause scanner for insurance & terms |
-| S4E3 | **EcoSplit (Hackathon Build)** | Sustainability + ML + Smart Bill Splitting |
+| 🚧 | *(New projects coming soon)* | Stay tuned for fresh builds, research, and open-source ideas! |
 
 
 <h2 align = "center"> 🖥 My Technical Blogs </h2> 
