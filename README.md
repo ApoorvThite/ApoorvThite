@@ -101,8 +101,21 @@ These valuable tools and techniques have empowered me to successfully develop an
 | S4E3 | [**Spotify Music Analysis**](https://github.com/ApoorvThite/Spotify_Music-Analysis) | Decoding rhythms, genres, and trends through ML |
 
 ---
+## 📺 Season V – Bootcamp Builds: *"Foundations in Action"*
 
-## ⏳ Season V – In the Writers' Room: *Projects in Progress*
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Bootcamp%20Certified-00CED1?style=for-the-badge&logo=appveyor&logoColor=white">
+</h3>
+
+| 🎞️ Episode | Project | Tagline |
+|------------|---------|---------|
+| S5E1 | [**Project 1 – ML with Titanic Dataset**](https://github.com/NAISS-Spring-2025-MLB/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite) | Applied fundamental ML workflows to a classic binary classification problem |
+| S5E2 | [**Project 2 – Pneumonia Detection (CNN)**](https://github.com/NAISS-Spring-2025-MLB/project-2-cnns-ApoorvThite-1) | Built a CNN to classify pneumonia from chest X-ray images |
+| S5E3 | [**Project 3 – Finance RAG Chatbot**](https://github.com/NAISS-Spring-2025-MLB/project-3-rag-chatbot-ApoorvThite) | Implemented a Retrieval-Augmented Generation chatbot trained on stock trading PDFs |
+| S5E4 | [**Project 4 – Reinforcement Learning (CartPole)**](https://github.com/NAISS-Spring-2025-MLB/project-4-reinforcement-learning-ApoorvThite) | Developed a Q-learning agent to solve the CartPole environment using OpenAI Gym |
+
+---
+## ⏳ Season VI – In the Writers' Room: *Projects in Progress*
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Coming%20Soon-5356FF?style=for-the-badge&logo=appveyor&logoColor=white">
