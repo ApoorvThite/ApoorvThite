@@ -6,6 +6,10 @@
   <em>“Code is my canvas. AI is the paint. Welcome to my world of meaningful builds and mindful learning.”</em>
 </p>
 
+
+![image](https://github.com/user-attachments/assets/f250f2c1-320e-4540-ac50-31c88c1fdacd)
+
+
 ## 🎞️ Episode I – The Opening Scene: Who Am I?
 
 Hey there! I’m **Apoorv Thite**, a senior at **Penn State University** majoring in **Applied Data Science**, minoring in **Economics**, and passionately blending tech with purpose.
