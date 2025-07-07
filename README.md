@@ -30,6 +30,7 @@ From building LLM-powered edtech tools to researching early-stage Parkinson’s 
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
+
 * *The Data Science Course - Complete Data Science Bootcamp by [__Udemy__](https://www.udemy.com/)*
 * *Building Reccomender Systems with Machine Learning and AI by [__LinkedIn__](https://www.linkedin.com/)*
 * *Data Analytics and Visualisation Virtual Experience by [__Accenture__](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)*
@@ -159,7 +160,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 - 📬 Email: **aat5564@psu.edu**
 - 💼 [LinkedIn](https://www.linkedin.com/in/apoorvthite)
 - 🧠 [Medium Blog](https://medium.com/@apoorvthite21)
-- 🌐 Personal Portfolio (coming soon...)
 
 <p align="center">
   <em>“Thanks for being here. New data-driven solutions drop weekly.”</em> 🌟
