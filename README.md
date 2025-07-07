@@ -7,7 +7,7 @@
 </p>
 
 
-<img src="https://github.com/user-attachments/assets/f250f2c1-320e-4540-ac50-31c88c1fdacd" width="400"/>
+<img src="https://github.com/user-attachments/assets/f250f2c1-320e-4540-ac50-31c88c1fdacd" width="400" height="200"/>
 
 
 ## 🎞️ Episode I – The Opening Scene: Who Am I?
