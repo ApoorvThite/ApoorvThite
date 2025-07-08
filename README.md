@@ -48,6 +48,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 <hr style="border:0.01px solid blue">
 
 
+# My Projects and Data Experience
+
 ## 📺 Season I – ML in Finance: *"Predicting the Unpredictable"*
 
 <h3 align="center">
