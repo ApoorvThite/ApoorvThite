@@ -125,7 +125,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 | Episode | Project | Description |
 |---------|---------|-------------|
-| 🚧 | *(New projects coming soon)* | Stay tuned for fresh builds, research, and open-source ideas! |
+|  | *(New projects coming soon)* | Stay tuned for fresh builds, research, and open-source ideas! |
 
 
 <h2 align = "center"> 🖥 My Technical Blogs </h2> 
