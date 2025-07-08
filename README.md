@@ -125,7 +125,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 | Episode | Project | Description |
 |---------|---------|-------------|
-|  | *(New projects coming soon)* | Stay tuned for fresh builds, research, and open-source ideas! |
+| S6E1 | AWS MLOps Pipeline | End-to-end CI/CD + real-time deployment on SageMaker with monitoring, versioning, and secure access. |
 
 
 <h2 align = "center"> 🖥 My Technical Blogs </h2> 
