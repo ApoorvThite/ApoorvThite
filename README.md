@@ -50,7 +50,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 # My Projects and Data Experience
 
-## 📺 Season I – ML in Finance: *"Predicting the Unpredictable"*
+## 📺 Season I – Machine Learning in Finance: *"Predicting the Unpredictable"*
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Now%20Streaming-FF3131?style=for-the-badge&logo=appveyor&logoColor=white">
