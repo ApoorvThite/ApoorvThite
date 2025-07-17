@@ -151,7 +151,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 </div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=apoorvthite&color=blue)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apoorvthite&theme=dark)](https://git.io/streak-stats)
+
 
 ## 💌 Credits & Contact
 
