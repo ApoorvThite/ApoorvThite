@@ -152,7 +152,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 </div>
 
 
-![Apoorv's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apoorvthite&theme=rogue)
+<!-- Example -->
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=apoorvthite)
 
 
 ## 💌 Credits & Contact
