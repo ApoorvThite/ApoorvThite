@@ -152,8 +152,10 @@ These valuable tools and techniques have empowered me to successfully develop an
 </div>
 
 
-<!-- Example -->
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=apoorvthite)
+<a href="https://devcard.link?user=apoorvthite">
+  <img src="https://api.devcard.link/api/devcard?user=apoorvthite" width="400" alt="Dev Card" />
+</a>
+
 
 
 ## 💌 Credits & Contact
