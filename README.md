@@ -151,6 +151,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 </div>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=apoorvthite&color=blue)
 
 ## 💌 Credits & Contact
 
