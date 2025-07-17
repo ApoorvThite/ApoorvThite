@@ -152,7 +152,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 </div>
 
 
-![Metrics](https://raw.githubusercontent.com/apoorvthite/apoorvthite/main/github-metrics.svg)
+![Apoorv's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apoorvthite&theme=rogue)
 
 
 ## 💌 Credits & Contact
