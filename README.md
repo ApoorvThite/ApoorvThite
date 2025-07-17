@@ -151,7 +151,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apoorvthite&theme=dark)](https://git.io/streak-stats)
+
+![Metrics](https://raw.githubusercontent.com/apoorvthite/apoorvthite/main/github-metrics.svg)
 
 
 ## 💌 Credits & Contact
