@@ -152,10 +152,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 </div>
 
 
-<a href="https://devcard.link?user=apoorvthite">
-  <img src="https://api.devcard.link/api/devcard?user=apoorvthite" width="400" alt="Dev Card" />
-</a>
-
 
 
 ## 💌 Credits & Contact
