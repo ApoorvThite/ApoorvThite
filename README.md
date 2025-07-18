@@ -128,7 +128,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 | Episode | Project | Description |
 |---------|---------|-------------|
 | S6E1 | [**AWS MLOps Pipeline**](https://github.com/ApoorvThite/mlops-pipeline-aws) | End-to-end CI/CD + real-time deployment on SageMaker with monitoring, versioning, and secure access. |
-| S6E2 | [**UrbanSoundscape**]
+| S6E2 | [**UrbanSoundscape**](https://github.com/ApoorvThite/urban-soundscape) |
 
 <h2 align = "center"> 🖥 My Technical Blogs </h2> 
 
