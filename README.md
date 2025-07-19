@@ -159,8 +159,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 </h3>
 
 - 📬 Email: **aat5564@psu.edu**
-- 💼 [LinkedIn](https://www.linkedin.com/in/apoorvthite)
-- 🧠 [Medium Blog](https://medium.com/@apoorvthite21)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/apoorvthite)
+- 🧠 Medium Blog: [Medium Blog](https://medium.com/@apoorvthite21)
 
 <p align="center">
   <em>“Thanks for being here. New data-driven solutions drop weekly.”</em> 🌟
