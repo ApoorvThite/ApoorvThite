@@ -1,9 +1,9 @@
 <h1 align="center">
-  Data Diaries: A Journey Through Code & Insight 🚀
+  Data Diaries: My Journey Through Code & Insight 🚀
 </h1>
 
 <p align="center">
-  <em>“Code is my canvas. AI is the paint. Welcome to my world of meaningful builds and mindful learning.”</em>
+  <em>“Coding with clarity. Building with meaning. Learning with purpose.”</em>
 </p>
 
 
