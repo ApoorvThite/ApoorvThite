@@ -166,7 +166,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 </div>
 
 
-## 💌 Credits & Contact
+## Contact
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Let’s%20Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -175,6 +175,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 - 📬 Email: **aat5564@psu.edu**
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/apoorvthite)
 - 🧠 Medium Blog: [Medium Blog](https://medium.com/@apoorvthite21)
+- ✌🏻 Instagram: [Instagram](https://www.instagram.com/apoorv_thite/)
 
 <p align="center">
   <em>“Thanks for being here. New data-driven solutions drop weekly.”</em> 🌟
