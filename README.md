@@ -24,13 +24,17 @@ Let’s connect, collaborate, and maybe write the next episode together. 🚀
 
 ## 🎞️ Episode II – Plot Points: My Goals & Aspirations
 
-🧠 **My long-term goal?** To combine technical ML mastery with strategic thinking and ultimately pursue a career as a Data Scientist that lets me lead innovation at the intersection of AI, ethics, and human need.
 
-🎯 **Short-term?**  
-- Design intelligent agents that solve niche but real problems (finance, healthcare, productivity).  
-- Work in high-impact **AI/ML/Data Science** teams.  
-- Contribute to open source.  
-- Build a portfolio that speaks louder than my resume.
+🧠 **My long-term vision?**  
+To become a Data Scientist who doesn’t just build models — but shapes how AI is used for good. I aim to sit at the intersection of **machine learning, ethics, and real-world impact**, leading innovation where technology meets human need. Whether it's building fairer algorithms, empowering communities with insights, or making AI more transparent and responsible — that’s the space I want to own.
+
+🎯 **In the short term, I’m focused on:**  
+- Designing **intelligent agents** that tackle real problems in **finance, healthcare, and productivity**.  
+- Working with **high-impact AI/ML/Data Science teams** where I can grow fast and contribute meaningfully.  
+- **Contributing to open source** projects to give back to the community and sharpen my collaborative edge.  
+- Building a **portfolio that speaks louder than my resume** — one thoughtful, well-crafted project at a time.
+
+Each goal is a stepping stone — and I’m here for the climb.
 
 ---
 
