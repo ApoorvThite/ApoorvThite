@@ -29,12 +29,26 @@ My story is one of curiosity meeting intention — from turning AI into a tool f
 ---
 
 
-🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
+## 📚 Courses & Certifications
 
-* *The Data Science Course - Complete Data Science Bootcamp by [__Udemy__](https://www.udemy.com/)*
-* *Building Reccomender Systems with Machine Learning and AI by [__LinkedIn__](https://www.linkedin.com/)*
-* *Data Analytics and Visualisation Virtual Experience by [__Accenture__](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)*
-* *AWS Knowledge - Cloud Essentials by [__Amazon Web Services (AWS)__](https://aws.amazon.com/getting-started/cloud-essentials/)*
+These courses have helped me build a strong theoretical foundation in data science, machine learning, and cloud computing:
+
+- [**The Data Science Course – Complete Data Science Bootcamp**](https://www.udemy.com/)  
+  *Platform:* Udemy  
+  Comprehensive coverage of Python, statistics, machine learning, and deep learning concepts.
+
+- [**Building Recommender Systems with Machine Learning and AI**](https://www.linkedin.com/)  
+  *Platform:* LinkedIn Learning  
+  Covered collaborative filtering, content-based techniques, and hybrid recommender models.
+
+- [**Data Analytics and Visualization Virtual Experience**](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)  
+  *Offered by:* Accenture (via Forage)  
+  Hands-on project involving data cleaning, trend identification, and visualization using real-world datasets.
+
+- [**AWS Cloud Essentials**](https://aws.amazon.com/getting-started/cloud-essentials/)  
+  *Provider:* Amazon Web Services (AWS)  
+  Covered core cloud concepts, AWS services, global infrastructure, and basic security best practices.
+
 
 
 
