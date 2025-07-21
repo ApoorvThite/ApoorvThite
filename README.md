@@ -9,9 +9,15 @@
 
 ## 🎞️ Episode I – The Opening Scene: Who Am I?
 
-Hello there! I’m **Apoorv Thite**, a builder, thinker, and senior at Penn State, majoring in Applied Data Science with a side quest in Economics.
+Hey there! I’m **Apoorv Thite** — a builder, dreamer, and explorer of ideas. I'm currently a senior at Penn State, majoring in **Applied Data Science**, with a minor in **Economics** fueling my fascination with systems and decision-making.
 
-My story is one of curiosity meeting intention — from turning AI into a tool for health diagnostics, to exploring how data can shape more equitable and intelligent systems. Each project is a puzzle piece, building toward a future where technology enhances understanding and creates value for all.
+My journey began with a simple question: *What if data could do more than just describe the world? What if it could help improve it?* Since then, I’ve been on a mission to turn raw information into real impact — from building AI tools that detect early signs of Parkinson’s Disease to decoding how elections ripple through financial markets.
+
+I’m deeply passionate about blending **human insight with machine intelligence**, always looking for ways to make technology more personal, accessible, and meaningful. Each project you’ll find here is a chapter in that story — a puzzle piece shaped by curiosity, intention, and the belief that data can drive change for good.
+
+Whether it's predicting churn, optimizing portfolios, or decoding stock trends, I treat every build as a chance to learn, challenge assumptions, and create something that lasts.
+
+Let’s connect, collaborate, and maybe write the next episode together. 🚀
 
 ---
 
