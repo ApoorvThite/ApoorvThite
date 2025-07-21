@@ -1,5 +1,5 @@
 <h1 align="center">
-  Patterns, Purpose & Progress: My Data Journey 🚀
+  Data Diaries: A Journey Through Code & Insight 🚀
 </h1>
 
 <p align="center">
