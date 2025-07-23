@@ -94,8 +94,8 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Critics'%20Choice-FDC500?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| 🎞️ Episode | Project | Tagline |
-|------------|---------|---------|
+| 🎞️ Episode | Project | Tagline | Preview |
+|------------|---------|---------|---------|
 | S2E1 | [**Gemini Quizify**](https://github.com/ApoorvThite/geminiquizify) | AI-generated quizzes for modern classrooms |
 | S2E2 | [**Kai-AI Worksheet & Syllabus Generator**](https://github.com/ssingh64-byte/kai-ai-backend) | LangGraph + VertexAI for dynamic educational content |
 | S2E3 | [**StartupX – Agentic Startup Evaluator**](https://github.com/ApoorvThite/startupx) | LLM-powered idea validation, deck generation, and market sizing |
