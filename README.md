@@ -34,7 +34,7 @@ To become a Data Scientist who doesn’t just build models — but shapes how AI
 - **Contributing to open source** projects to give back to the community and sharpen my collaborative edge.  
 - Building a **portfolio that speaks louder than my resume** — one thoughtful, well-crafted project at a time.
 
-Each goal is a stepping stone — and I’m here for the climb.
+Each goal is a stepping stone - and I’m here for the climb.
 
 ---
 
