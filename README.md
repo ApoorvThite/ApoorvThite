@@ -6,6 +6,8 @@
   <em>“Coding with clarity. Building with meaning. Learning with purpose.”</em>
 </p>
 
+![Alt Text](ApoorvThite/profile banner.png)
+
 
 ## 🎞️ Episode I – The Opening Scene: Who Am I?
 
