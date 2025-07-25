@@ -162,6 +162,14 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 &emsp;&emsp; 📃 [__Fluctuations in the Stock Market and the Growth of AI: Exploring the Correlation__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
 
+<p align="center">
+  <a href="https://medium.com/@apoorvthite21/building-digital-wind-tunnels-for-economics-the-rise-of-autonomous-economic-agents-and-multi-agent-a7d3368d03cd">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*EXAMPLE_IMAGE1.jpeg" width="200" alt="Economic Policy Blog"/>
+  </a>
+  <br/>
+  📃 <a href="https://medium.com/@apoorvthite21/building-digital-wind-tunnels-for-economics-the-rise-of-autonomous-economic-agents-and-multi-agent-a7d3368d03cd"><b>Economic Policy in the Digital Wind Tunnel</b></a>
+</p>
+
 
 ## 📊 GitHub Stats
 
