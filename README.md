@@ -59,7 +59,7 @@ These courses have helped me build a strong theoretical foundation in data scien
 
 - [**AWS Cloud Essentials**](https://aws.amazon.com/getting-started/cloud-essentials/)  
   *Provider:* Amazon Web Services (AWS)  
-  Covered core cloud concepts, AWS services, global infrastructure, and basic security best practices.
+  Covered core cloud concepts, AWS services, global infrastructure, and security best practices.
 
 
 
