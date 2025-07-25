@@ -156,7 +156,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 <h2 align = "center"> 🖥 My Technical Blogs </h2> 
 
-&emsp;&emsp; 📃 [__Economic Policy in the Digital Wind Tunnel: Exploring the Power of Autonomous Agents and Multi-Agent Simulations__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
+&emsp;&emsp; 📃 [__Economic Policy in the Digital Wind Tunnel: Exploring the Power of Autonomous Agents and Multi-Agent Simulations__](https://medium.com/@apoorvthite21/building-digital-wind-tunnels-for-economics-the-rise-of-autonomous-economic-agents-and-multi-agent-a7d3368d03cd)
 
 &emsp;&emsp; 📃 [__Understanding Machine Learning with a Simple House Price Prediction Example__](https://medium.com/@apoorvthite21/understanding-machine-learning-with-a-simple-house-price-prediction-example-936c314e56f6)
 
