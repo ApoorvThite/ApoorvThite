@@ -31,7 +31,8 @@ To become a Data Scientist who doesn’t just build models — but shapes how AI
 **In the short term, I’m focused on:**  
 - Designing **intelligent agents** that tackle real problems in **finance, healthcare, and productivity**.  
 - Working with **high-impact AI/ML/Data Science teams** where I can grow fast and contribute meaningfully.  
-- **Contributing to open source** projects to give back to the community and sharpen my collaborative edge.  
+- **Contributing to open source** projects to give back to the community and sharpen my collaborative edge.
+- Preparing for real-world impact through internships, research, and competitive projects.
 - Building a **portfolio that speaks louder than my resume** — one thoughtful, well-crafted project at a time.
 
 Each goal is a stepping stone - and I’m here for the climb.
