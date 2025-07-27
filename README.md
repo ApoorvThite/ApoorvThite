@@ -13,7 +13,7 @@
 
 Hey there! I’m **Apoorv Thite** — a builder, dreamer, and explorer of ideas. I'm currently a senior at Penn State, majoring in **Applied Data Science**, with a minor in **Economics** fueling my fascination with systems and decision-making.
 
-My journey began with a simple question: *What if data could do more than just describe the world? What if it could help improve it?* Since then, I’ve been on a mission to turn raw information into real impact — from building AI tools that detect early signs of Parkinson’s Disease to decoding how elections ripple through financial markets.
+My journey began with a simple question: *What if data could do more than just describe the world? What if it could help improve it?* Since then, I’ve been on a mission to turn raw information into real impact, from crafting intelligent systems that improve lives to uncovering patterns hidden within complex real-world data.
 
 I’m deeply passionate about blending **human insight with machine intelligence**, always looking for ways to make technology more personal, accessible, and meaningful. Each project is a chapter of that mission, built with curiosity and purpose.
 
