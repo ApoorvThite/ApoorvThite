@@ -81,9 +81,9 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Now%20Streaming-FF3131?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| 🎞️ Episode | Project | Tagline | Preview |
-|------------|---------|---------|---------|
-| S1E1 | [**NVDA Stock Forecasting (LSTM)**](https://github.com/ApoorvThite/Stock_Prediction) | Deep learning meets market timing | ![]() |
+| 🎞️ Episode | Project | Tagline |
+|------------|---------|---------|
+| S1E1 | [**NVDA Stock Forecasting (LSTM)**](https://github.com/ApoorvThite/Stock_Prediction) | Deep learning meets market timing | 
 | S1E2 | [**Elections & Stock Trends (2000–2024)**](https://github.com/ApoorvThite/Election-Stocks-Trends) | Can political shifts predict economic ripples? | ![](https://raw.githubusercontent.com/ApoorvThite/Election-Stocks-Trends/main/preview.png) |
 | S1E3 | [**IBM Customer Churn Prediction**](https://github.com/ApoorvThite/ibm-churn-prediction) | Anticipating exits before they happen | ![](https://raw.githubusercontent.com/ApoorvThite/ibm-churn-prediction/main/preview.png) |
 
