@@ -15,7 +15,7 @@ Hey there! I’m **Apoorv Thite** — a builder, dreamer, and explorer of ideas.
 
 My journey began with a simple question: *What if data could do more than just describe the world? What if it could help improve it?* Since then, I’ve been on a mission to turn raw information into real impact — from building AI tools that detect early signs of Parkinson’s Disease to decoding how elections ripple through financial markets.
 
-I’m deeply passionate about blending **human insight with machine intelligence**, always looking for ways to make technology more personal, accessible, and meaningful. Each project you’ll find here is a chapter in that story, a puzzle piece shaped by curiosity, intention, and the belief that data can drive change for good.
+I’m deeply passionate about blending **human insight with machine intelligence**, always looking for ways to make technology more personal, accessible, and meaningful. Each project is a chapter of that mission, built with curiosity and purpose.
 
 Whether it's predicting churn, optimizing portfolios, or decoding stock trends, I treat every build as a chance to learn, challenge assumptions, and create something that lasts.
 
