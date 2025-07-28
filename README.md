@@ -164,7 +164,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 &emsp;&emsp; 📃 [__Fluctuations in the Stock Market and the Growth of AI: Exploring the Correlation__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
 
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 
 <div align="center">
