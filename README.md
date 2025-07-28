@@ -169,6 +169,12 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorvthite&show_icons=true&theme=radical" height="200"/>
+  
+</div>
+
+<div align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvthite&theme=radical" height="200"/>
 
 </div>
