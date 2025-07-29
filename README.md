@@ -53,7 +53,7 @@ These courses have helped me build a strong theoretical foundation in data scien
   Covered collaborative filtering, content-based techniques, and hybrid recommender models.
 
 - [**Data Analytics and Visualization Virtual Experience**](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)  
-  *Offered by:* Accenture (via Forage)  
+  *Offered by:* Accenture (Forage)  
   Hands-on project involving data cleaning, trend identification, and visualization using real-world datasets.
 
 - [**AWS Cloud Essentials**](https://aws.amazon.com/getting-started/cloud-essentials/)  
