@@ -136,7 +136,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 </h3>
 
 | 🎞️ Episode | Project | Tagline |
-|------------|---------|---------|---------|
+|------------|---------|---------|
 | S5E1 | [**Project 1 – ML with Titanic Dataset**](https://github.com/NAISS-Spring-2025-MLB/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite) | Applied fundamental ML workflows to a classic binary classification problem |
 | S5E2 | [**Project 2 – Pneumonia Detection (CNN)**](https://github.com/NAISS-Spring-2025-MLB/project-2-cnns-ApoorvThite-1) | Built a CNN to classify pneumonia from chest X-ray images |
 | S5E3 | [**Project 3 – Finance RAG Chatbot**](https://github.com/NAISS-Spring-2025-MLB/project-3-rag-chatbot-ApoorvThite) | Implemented a Retrieval-Augmented Generation chatbot trained on stock trading PDFs |
