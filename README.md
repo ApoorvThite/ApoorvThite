@@ -135,7 +135,7 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Bootcamp%20Certified-00CED1?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| 🎞️ Episode | Project | Tagline | Preview |
+| 🎞️ Episode | Project | Tagline |
 |------------|---------|---------|---------|
 | S5E1 | [**Project 1 – ML with Titanic Dataset**](https://github.com/NAISS-Spring-2025-MLB/project-1-data-preprocessing-and-whitebox-model-training-ApoorvThite) | Applied fundamental ML workflows to a classic binary classification problem |
 | S5E2 | [**Project 2 – Pneumonia Detection (CNN)**](https://github.com/NAISS-Spring-2025-MLB/project-2-cnns-ApoorvThite-1) | Built a CNN to classify pneumonia from chest X-ray images |
