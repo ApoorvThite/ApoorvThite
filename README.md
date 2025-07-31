@@ -149,7 +149,7 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Coming%20Soon-5356FF?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| Episode | Project | Description | Preview |
+| Episode | Project | Description | 
 |---------|---------|-------------|---------|
 | S6E1 | [**AWS MLOps Pipeline**](https://github.com/ApoorvThite/mlops-pipeline-aws) | End-to-end CI/CD + real-time deployment on SageMaker with monitoring, versioning, and secure access. |
 | S6E2 | [**UrbanSoundscape**](https://github.com/ApoorvThite/urban-soundscape) | Analyzed urban audio and mapped soundscapes to assess their impact on community well-being using Python and data fusion techniques. |
