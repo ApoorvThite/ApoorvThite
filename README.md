@@ -17,8 +17,6 @@ My journey began with a simple question: *What if data could do more than just d
 
 I’m deeply passionate about blending **human insight with machine intelligence**, always looking for ways to make technology more personal, accessible, and meaningful. Each project is a chapter of that mission, built with curiosity and purpose.
 
-Whether it's predicting churn, optimizing portfolios, or decoding stock trends, I treat every build as a chance to learn, challenge assumptions, and create something that lasts.
-
 ---
 
 
