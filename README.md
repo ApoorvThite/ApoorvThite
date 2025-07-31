@@ -154,7 +154,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 | S6E1 | [**AWS MLOps Pipeline**](https://github.com/ApoorvThite/mlops-pipeline-aws) | End-to-end CI/CD + real-time deployment on SageMaker with monitoring, versioning, and secure access. |
 | S6E2 | [**UrbanSoundscape**](https://github.com/ApoorvThite/urban-soundscape) | Analyzed urban audio and mapped soundscapes to assess their impact on community well-being using Python and data fusion techniques. |
 
-<h2 align = "center"> 🖥 My Technical Blogs </h2> 
+<h2 align = "center"> 🖥 My Blogs </h2> 
 
 &emsp;&emsp; 💵 [__Economic Policy in the Digital Wind Tunnel: Exploring the Power of Autonomous Agents and Multi-Agent Simulations__](https://medium.com/@apoorvthite21/building-digital-wind-tunnels-for-economics-the-rise-of-autonomous-economic-agents-and-multi-agent-a7d3368d03cd)
 
