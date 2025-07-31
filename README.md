@@ -55,7 +55,7 @@ These courses have helped me build a strong theoretical foundation in data scien
   Hands-on project involving data cleaning, trend identification, and visualization using real-world datasets.
 
 - [**AWS Cloud Essentials**](https://aws.amazon.com/getting-started/cloud-essentials/)  
-  *Provider:* Amazon Web Services (AWS)  
+  *Platform:* Amazon Web Services (AWS)  
   Covered core cloud concepts, AWS services, global infrastructure, and security best practices.
 
 
