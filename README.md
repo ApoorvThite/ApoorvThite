@@ -26,7 +26,7 @@ I’m deeply passionate about blending **human insight with machine intelligence
 **My long-term vision?**  
 To become a Data Scientist who doesn’t just build models — but shapes how AI is used for good. I aim to sit at the intersection of **machine learning, ethics, and real-world impact**, leading innovation where technology meets human need. Whether it's building fairer algorithms, empowering communities with insights, or making AI more transparent and responsible — that’s the space I want to own.
 
-**In the short term, I’m focused on:**  
+**Currently, I’m focused on:**  
 - Designing **intelligent agents** that tackle real problems in **finance, healthcare, and productivity**.  
 - Working with **high-impact AI/ML/Data Science teams** where I can grow fast and contribute meaningfully.  
 - **Contributing to open source** projects to give back to the community and sharpen my collaborative edge.
