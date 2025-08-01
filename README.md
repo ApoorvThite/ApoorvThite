@@ -163,7 +163,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ## 📊 My GitHub Stats
 
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=apoorvthite&show_icons=true&theme=radical" height="200"/>
