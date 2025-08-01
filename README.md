@@ -6,7 +6,6 @@
   <em>“Coding with clarity. Building with meaning. Learning with purpose.”</em>
 </p>
 
-![Banner](./profile_banner.png)
 
 
 ## 🎞️ Episode I – The Opening Scene: Who Am I?
