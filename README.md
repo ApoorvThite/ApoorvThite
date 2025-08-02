@@ -184,7 +184,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 - 📬 Email: **aat5564@psu.edu**
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/apoorvthite)
-- 🧠 Medium: [Medium Blog](https://medium.com/@apoorvthite21)
+- 🧠 Medium: [Medium](https://medium.com/@apoorvthite21)
 - ✌🏻 Instagram: [Instagram](https://www.instagram.com/apoorv_thite/)
 
 <p align="center">
