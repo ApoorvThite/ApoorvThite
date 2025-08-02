@@ -122,7 +122,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 | 🎞️ Episode | Project | Tagline | 
 |------------|---------|---------|
-| S4E1 | [**EcoSplit**](https://github.com/ApoorvThite/ecosplit) | Sustainability meets ML-powered bill splitting |
+| S4E1 | [**EcoSplit**](https://github.com/ApoorvThite/ecosplit) | Sustainability meets ML-powered bill splitting (A Hackathon Project) |
 | S4E2 | [**UrbanIQ – Satellite & Population Insight Platform**](https://github.com/ApoorvThite/urbanIQ) | Merging geospatial data & population trends for smarter cities |
 | S4E3 | [**Spotify Music Analysis**](https://github.com/ApoorvThite/Spotify_Music-Analysis) | Decoding rhythms, genres, and trends through ML |
 
