@@ -78,7 +78,7 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Now%20Streaming-FF3131?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| 🎞️ Episode | Project | Tagline |
+| Episode | Project | Tagline |
 |------------|---------|---------|
 | S1E1 | [**NVDA Stock Forecasting (LSTM)**](https://github.com/ApoorvThite/Stock_Prediction) | Deep learning meets market timing | 
 | S1E2 | [**Elections & Stock Trends (2000–2024)**](https://github.com/ApoorvThite/Election-Stocks-Trends) | Can political shifts predict economic ripples? |
@@ -92,7 +92,7 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Critics'%20Choice-FDC500?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| 🎞️ Episode | Project | Tagline | 
+| Episode | Project | Tagline | 
 |------------|---------|---------|
 | S2E1 | [**Gemini Quizify**](https://github.com/ApoorvThite/geminiquizify) | AI-generated quizzes for modern classrooms |
 | S2E2 | [**Kai-AI Worksheet & Syllabus Generator**](https://github.com/ssingh64-byte/kai-ai-backend) | LangGraph + VertexAI for dynamic educational content |
