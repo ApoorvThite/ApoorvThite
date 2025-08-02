@@ -107,7 +107,7 @@ These valuable tools and techniques have empowered me to successfully develop an
   <img src="https://img.shields.io/badge/Breakout%20Hit-9B59B6?style=for-the-badge&logo=appveyor&logoColor=white">
 </h3>
 
-| 🎞️ Episode | Project | Tagline |
+| Episode | Project | Tagline |
 |------------|---------|---------|
 | S3E1 | [**Parkinson’s Early Detection (Multimodal)**](https://github.com/ApoorvThite/Research-on-Parkinson-s-Disease) | Voice + Motor features to catch the silent signals |
 | S3E2 | [**Heart Disease Classification**](https://github.com/ApoorvThite/Heart-Disease-Classification-ML) | ML-driven early diagnosis for life-saving insights |
