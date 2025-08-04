@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>“Coding with clarity. Building with meaning. Learning with purpose.”</em>
+  <em>“.”</em>
 </p>
 
 ![Banner](./profile_banner.png)
