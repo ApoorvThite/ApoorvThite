@@ -83,7 +83,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 | S1E1 | [**NVDA Stock Forecasting (LSTM)**](https://github.com/ApoorvThite/Stock_Prediction) | Deep learning meets market timing | 
 | S1E2 | [**Elections & Stock Trends (2000–2024)**](https://github.com/ApoorvThite/Election-Stocks-Trends) | Can political shifts predict economic ripples? |
 | S1E3 | [**IBM Customer Churn Prediction**](https://github.com/ApoorvThite/ibm-churn-prediction) | Anticipating exits before they happen |
-| S1E4 | [**Agentic Strategy Backtester**]
+| S1E4 | [**Agentic Strategy Backtester**](https://github.com/ApoorvThite/startegy_backtester) |
 
 ---
 
