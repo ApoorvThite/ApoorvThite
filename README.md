@@ -1,5 +1,5 @@
 <h1 align="center">
-  Data Diaries: My Journey Through Code & Insight 🚀
+  
 </h1>
 
 <p align="center">
