@@ -128,6 +128,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 | S4E3 | [**Spotify Music Analysis**](https://github.com/ApoorvThite/Spotify_Music-Analysis) | Decoding rhythms, genres, and trends through ML |
 
 ---
+
 ## 📺 Season V – Bootcamp Builds: *"Foundations in Action"*
 
 <h3 align="center">
