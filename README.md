@@ -190,3 +190,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 - 🧠 Medium: [Medium](https://medium.com/@apoorvthite21)
 - ✌🏻 Instagram: [Instagram](https://www.instagram.com/apoorv_thite/)
 
+<p align="center">
+  <em>“Thanks for being here. New data-driven solutions drop weekly.”</em> 🌟
+</p>
