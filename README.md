@@ -15,7 +15,7 @@ Hey there! I’m **Apoorv Thite** — a builder, dreamer, and explorer of ideas.
 
 My journey began with a simple question: *What if data could do more than just describe the world? What if it could help improve it?* Since then, I’ve been on a mission to turn raw information into real impact, from crafting intelligent systems that improve lives to uncovering patterns hidden within complex real-world data.
 
-I’m deeply passionate about blending **human insight with machine intelligence**, always looking for ways to make technology more personal, accessible, and meaningful. Each project is a chapter of that mission, built with curiosity and purpose.
+
 
 ---
 
