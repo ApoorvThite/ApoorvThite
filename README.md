@@ -142,6 +142,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 | S5E4 | [**Project 4 – Reinforcement Learning (CartPole)**](https://github.com/NAISS-Spring-2025-MLB/project-4-reinforcement-learning-ApoorvThite) | Developed a Q-learning agent to solve the CartPole environment using OpenAI Gym |
 
 ---
+
 ## ⏳ Season VI – In the Writers' Room: *Projects in Progress*
 
 <h3 align="center">
