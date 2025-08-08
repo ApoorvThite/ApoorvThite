@@ -87,7 +87,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ---
 
-## 📺 Season II – Generative AI Lab: *"Where Ideas Write Themselves"*
+
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Critics'%20Choice-FDC500?style=for-the-badge&logo=appveyor&logoColor=white">
