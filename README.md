@@ -172,7 +172,11 @@ These valuable tools and techniques have empowered me to successfully develop an
   
 </div>
 
+<div align="center">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvthite&theme=radical" height="200"/>
+
+</div>
 
 
 ## Contact
