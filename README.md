@@ -161,7 +161,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 &emsp;&emsp; 🏠 [__Understanding Machine Learning with a Simple House Price Prediction _](https://medium.com/@apoorvthite21/understanding-machine-learning-with-a-simple-house-price-prediction-example-936c314e56f6)
 
-&emsp;&emsp; 📈 [__Fluctuations in the Stock Market and the Growth of AI: Exploring the Correlation__](https://medium.com/@apoorvthite21/fluctuations-in-the-stock-market-and-the-growth-of-ai-exploring-the-correlation-6874b93229d5)
 
 
 ## 📊 My GitHub Stats
