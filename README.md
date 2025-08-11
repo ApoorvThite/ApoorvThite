@@ -38,7 +38,7 @@ Each goal is a stepping stone, and I’m here for the climb.
 ---
 
 
-
+## 📚 Courses & Certifications
 
 These courses have helped me build a strong theoretical foundation in data science, machine learning, and cloud computing:
 
