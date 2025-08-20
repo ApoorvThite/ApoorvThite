@@ -33,7 +33,7 @@ To be a Data Scientist who doesn’t just build models — but shapes how AI is 
 - Preparing for real-world impact through internships, research, and competitive projects.
 - Building a **portfolio that speaks louder than my resume** — one thoughtful, well-crafted project at a time.
 
-Each goal is a stepping stone, and I’m here for the climb.
+
 
 ---
 
