@@ -60,7 +60,7 @@ These courses have helped me build a strong theoretical foundation in data scien
 
 
 
-## 🎞️ Episode III – Behind the Scenes: My Toolkit & Tech Stack
+
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 
