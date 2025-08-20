@@ -59,7 +59,7 @@ These courses have helped me build a strong theoretical foundation in data scien
   Covered core cloud concepts, AWS services, global infrastructure, and security best practices.
 
 
-
+## 🎞️ Episode III – Behind the Scenes: My Toolkit & Tech Stack
 
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
