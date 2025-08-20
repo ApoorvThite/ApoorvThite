@@ -9,7 +9,7 @@
 ![Banner](./profile_banner.png)
 
 
-## 🎞️ Episode I – The Opening Scene: Who Am I?
+
 
 Hey there! I’m **Apoorv Thite** — a builder, dreamer, and explorer of ideas. I'm currently a senior at Penn State, majoring in **Applied Data Science**, with a minor in **Economics** fueling my fascination with systems and decision-making.
 
