@@ -173,8 +173,6 @@ These courses have helped me build a strong theoretical foundation in data scien
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app)
-
 
 ## Contact
 
